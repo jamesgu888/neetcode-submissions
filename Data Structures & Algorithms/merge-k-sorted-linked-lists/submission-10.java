@@ -42,7 +42,6 @@ class Solution {
 
         if (a != null) {
             cur.next = a;
-
         } else if (b != null) {
             cur.next = b;
         }
